@@ -14,7 +14,7 @@
 		"babel-runtime": "^6.23.0",
 		"csg": "^1.0.1",
 		"infamous": "^18.0.7",
-		"jquery": "^2.1.1",
+		"jquery": "^3.5.0",
 		"jss": "^3.11.1",
 		"jss-camel-case": "^1.1.0",
 		"jss-extend": "^1.2.1",
