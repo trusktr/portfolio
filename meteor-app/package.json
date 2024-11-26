@@ -36,6 +36,6 @@
 		"vue": "^2.4.4",
 		"vue-meteor-tracker": "^2.0.0-beta.5",
 		"webcomponents.js": "webcomponents/webcomponentsjs#v1",
-		"ws": "^3.0.0"
+		"ws": "^3.3.1"
 	}
 }
