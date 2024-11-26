@@ -11,7 +11,7 @@
 		"famous": "trusktr/famous#trusktr",
 		"infamous": "^15.2.3",
 		"james-bond": "^0.0.0",
-		"jquery": "2.1.1",
+		"jquery": "3.5.0",
 		"jquery-tooltipster": "trusktr/tooltipster#npm",
 		"jsfromhell": "trusktr/JSFromHell#npm",
 		"jss": "^6.5.0",
