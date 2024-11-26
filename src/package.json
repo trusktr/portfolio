@@ -3,7 +3,7 @@
 	"version": "0.0.0",
 	"dependencies": {
 		"army-knife": "^0.2.1",
-		"async": "^0.9.0",
+		"async": "^2.6.4",
 		"big.js": "2.5.1",
 		"bignumber.js": "1.4.1",
 		"bootstrap": "3.2.0",
